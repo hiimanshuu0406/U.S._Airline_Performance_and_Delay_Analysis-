@@ -6,10 +6,10 @@ This project analyzes over 5 million U.S. domestic flight records to uncover per
 **📊 Dasboard Prewview**
 
 Dashboard 1
-
+<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/893d1c7d-49c3-4e12-9fc8-4d9ef27419fd" />
 
 Dashboard 2
-
+<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/58cdb0f7-11ce-46f7-956f-62e2e336296e" />
 
 **❓ Business Problem**
 1. Flight delays are costly to both airlines and passengers. This project aims to answer:
@@ -34,3 +34,13 @@ Dashboard 2
 4. Airlines should prioritize aircraft maintenance scheduling to reduce aircraft delays.
 5. Airports should allocate additional resources during peak months (March & June) to handle higher traffic.
 6. Low-performing airlines can adopt best practices from consistently reliable carriers (e.g., Hawaiian).
+
+**📂 Dataset Access**
+
+Due to large file size, the raw datasets are hosted on Google Drive:
+
+👉 https://drive.google.com/file/d/1RlO6jO-Bva7Um6tvItOe0an8KSJmSyAG/view?usp=sharing
+
+👉 https://drive.google.com/file/d/1OC0BlKzgndoHruKnjk3_oWwLy4bGy55_/view?usp=sharing
+
+👉 https://drive.google.com/file/d/1QPa_qILmbEF5IguvGjV5dK1w5I7RPjh3/view?usp=sharing
