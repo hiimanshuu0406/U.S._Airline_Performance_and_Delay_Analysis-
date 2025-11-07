@@ -3,14 +3,6 @@
 
 This project analyzes over 5 million U.S. domestic flight records to uncover performance patterns, identify delay causes, and evaluate airline/airport efficiency. The end-to-end workflow involved data cleaning, transformation, SQL analysis, and interactive visualization using Tableau.
 
-**📊 Dasboard Prewview**
-
-Dashboard 1
-<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/893d1c7d-49c3-4e12-9fc8-4d9ef27419fd" />
-
-Dashboard 2
-<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/58cdb0f7-11ce-46f7-956f-62e2e336296e" />
-
 **❓ Business Problem**
 1. Flight delays are costly to both airlines and passengers. This project aims to answer:
 2. Which airlines and airports have the most/least delays?
